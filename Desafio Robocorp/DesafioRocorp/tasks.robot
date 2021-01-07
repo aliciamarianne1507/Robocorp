@@ -1,6 +1,3 @@
-# o Desafio consiste em: Realizar o download de uma planilha excel que se encontra no seguinte site: http://rpachallenge.com/ extrair seus dados e preencher o formulário 
-#10 vezes 
-
 *** Settings ***
 Documentation   Desafio Robocorp
 Library         RPA.Browser
